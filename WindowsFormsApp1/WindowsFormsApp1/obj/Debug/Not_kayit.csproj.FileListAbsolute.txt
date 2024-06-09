@@ -1,0 +1,12 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Not_kayit.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_OgrDetay.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ogretmen.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Giris.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Not_kayit.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Not_kayit.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\ÖĞRENCİNOTSİSTEMİ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
